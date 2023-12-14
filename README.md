@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/arvindmandre3" target="blank"><img src="https://img.shields.io/twitter/follow/arvindmandre3?logo=twitter&style=for-the-badge" alt="arvindmandre3" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://aaru2599-portfolio.netlify.app/](https://aaru2599-portfolio.netlify.app/)
 
